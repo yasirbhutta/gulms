@@ -1,5 +1,6 @@
 
-# LMS Instructor Guide
+# [LMS Instructor Guide][docs]
+[docs]: ../index.html
 
 ## Activites
 
