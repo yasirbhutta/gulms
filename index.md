@@ -1,9 +1,16 @@
 ---
 title: GU LMS Documents
 ---
-# *GU Learning Management System Guide*
+# Ghazi University LMS Guide
+
+## Getting started
+
+* [How to change your Password][user]
+
+[user]:   basics/user.html
 
 ## Student
+
 
 ## Instructor
 
