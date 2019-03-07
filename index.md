@@ -1,7 +1,7 @@
 ---
 title: GU LMS Documents
 ---
-# GU Learning Management System Guide
+# *GU Learning Management System Guide*
 
 ## Student
 
@@ -13,7 +13,7 @@ title: GU LMS Documents
 [t_assign]:    instructor/assignment.html
 [turnitin]:    instructor/turnitin.html
 
-# Manager
+## Manager
 
 * [Adding a course][course]
 
