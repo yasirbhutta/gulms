@@ -1,4 +1,4 @@
-# [LMS Instructor Guide][docs]
+# [User Guide][docs]
 [docs]: ../index.html
 
 ## Courses

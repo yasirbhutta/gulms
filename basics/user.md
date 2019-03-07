@@ -1,3 +1,5 @@
+# [User Guide][docs]
+[docs]: ../index.html
 
 ## Change password
 
