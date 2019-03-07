@@ -5,3 +5,6 @@ title: GU LMS Documents
 
 # Teachers
 
+* [Create an assignment][t_assign]
+
+[t_assign]:    teachers/assignment.html
